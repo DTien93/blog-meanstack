@@ -1,0 +1,11 @@
+.header {
+    margin-top: 60px;
+}
+
+.header__titles{
+    display: flex;
+    height: 150px;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+}

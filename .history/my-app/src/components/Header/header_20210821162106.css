@@ -1,0 +1,48 @@
+.header {
+    margin-top: 60px;
+}
+
+.header__titles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header__titles-heading {
+    height: 130px;
+    width:  100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    font-size: 5rem;
+    font-family: 'Montserrat',sans-serif;
+    text-transform: none;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.header__titles-description {
+    font-size: .75rem;
+    font-family: 'Montserrat',serif;
+    text-transform: uppercase;
+    position: relative;
+    padding-top: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.header__titles-description::before {
+    position: absolute;
+    top: -3px;
+    width: 200px;
+    height: 1px;
+    content: "";
+    background-color: var(--border-main);
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.header__titles-description::after {
+    
+}

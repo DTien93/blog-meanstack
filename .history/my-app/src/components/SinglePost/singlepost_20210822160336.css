@@ -1,0 +1,18 @@
+.singlePost {
+    flex: 9;
+}
+
+.singlePost__Wrapper {
+    padding: 20px;
+    padding-right: 0;
+}
+
+.singlePost__images {
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}

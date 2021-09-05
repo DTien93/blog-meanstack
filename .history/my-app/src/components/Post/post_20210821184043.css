@@ -1,0 +1,14 @@
+.post {
+    width: 80%;
+    margin: 0px 25px 40px 50px;
+}
+
+.post__image {
+    width: 100%;
+}
+
+.post__image-info {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}

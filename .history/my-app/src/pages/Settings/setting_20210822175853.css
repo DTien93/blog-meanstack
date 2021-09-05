@@ -1,0 +1,8 @@
+.setting {
+    display: flex;
+}
+
+.setting__wrapper{
+    flex: 9;
+    padding: 20px;
+}

@@ -1,0 +1,12 @@
+.header {
+    margin-top: 60px;
+}
+
+.header__titles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lora', sans-serif;
+    color: var(main-color);
+}
+

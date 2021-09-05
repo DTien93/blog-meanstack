@@ -1,0 +1,13 @@
+.btn-register {
+    border-radius: 20px;
+    border: 1px solid #888;
+    background-color: #333;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+    cursor: pointer;
+}

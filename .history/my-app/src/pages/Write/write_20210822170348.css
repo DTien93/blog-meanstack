@@ -1,0 +1,23 @@
+.write { 
+    padding-top: 50px;
+}
+
+.write__form {
+  
+}
+
+.write__formGroup {
+    margin-left: 150px;
+}
+
+.write__icon {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border: 1px solid;
+    justify-content: center;
+}
